@@ -1,7 +1,5 @@
 # CIFAR10-classification
 
-Work by : 
+Work by : [Yuval Vinokur](https://github.com/Yuval-Vino), Idan Rosenberg 
 
-Yuval Vinokur 316402569 
-
-Idan Rosenberg 315006882
+Check out [Code and Plots](https://github.com/Yuval-Vino/CIFAR10-classification/blob/main/Final_Project.ipynb)
